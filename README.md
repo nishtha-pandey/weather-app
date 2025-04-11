@@ -18,6 +18,6 @@ A simple and elegant Weather App that displays real-time weather data for any ci
 - **HTML**
 - **CSS**
 - **JavaScript (Vanilla JS)**
-- **OpenWeatherMap API**
+
 
 ---
